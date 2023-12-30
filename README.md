@@ -1,6 +1,6 @@
 # p5js-network
 
-New idea
+My first p5.js sketch specifically created for use with the AxiDraw. It creates a simple graph/network which stars from a large central node.
 
 # Technologies Utilized
 
